@@ -1,7 +1,7 @@
 ---
 plugin: netbox.netbox.nb_inventory
 api_endpoint: https://netbox01.thetnw.com
-token: bb5ae3f2b41ab0cde15d434a6308651629b47cb5
+token: fde3dfe7f5ef9dd325688f4f534e42b576bcb33b
 validate_certs: false
 config_context: true
 ansible_user: admin
