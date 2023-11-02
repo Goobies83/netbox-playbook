@@ -4,8 +4,6 @@ api_endpoint: https://netbox01.thetnw.com
 token: fde3dfe7f5ef9dd325688f4f534e42b576bcb33b
 validate_certs: false
 config_context: true
-ansible_user: admin
-ansible_password: ITCE_1234
 interface: true
 group_names_raw: true
 group_by:
