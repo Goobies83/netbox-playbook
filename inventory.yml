@@ -2,7 +2,7 @@
 plugin: netbox.netbox.nb_inventory
 api_endpoint: https://netbox01.thetnw.com
 token: fde3dfe7f5ef9dd325688f4f534e42b576bcb33b
-validate_certs: true
+validate_certs: false
 config_context: true
 interface: true
 group_names_raw: true
